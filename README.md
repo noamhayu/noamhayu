@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Noam Hayu! 👋
 
-<!--
-**noamhayu/noamhayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 3rd-Year Electrical & Electronics Engineering Student @ Shenkar College
 
-Here are some ideas to get you started:
+I am an Electrical Engineering student with a strong passion for digital logic design, low-level programming, and hardware-software integration. I enjoy turning theoretical concepts into working systems, from writing algorithms to working directly with microcontrollers. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not designing circuits or debugging code, you can find me following international football, exploring new tech hardware, or hanging out with my dog, Jimmy.
+
+## 🛠️ Tech Stack & Tools
+* **Programming Languages:** Python (NumPy, Matplotlib), C, C++, Verilog, Assembly
+* **Hardware & Microcontrollers:** Arduino, Raspberry Pi, MSP
+* **Engineering Software:** MATLAB, Logisim, ModelSim
+
+## 🚀 Featured Projects
+* 🔬 **[Mini-Processor & Assembly Project](https://github.com/noamhayu/mini-processor-project)**
+  Designed a custom 10-bit mini24 CPU architecture from scratch in Logisim, and developed an Assembly program to compute geometric sequences on the Mano CPU Simulator.
+
+## 📫 Let's Connect
+* 💼 **LinkedIn:** [www.linkedin.com/in/noam-hayu-682080180]
+* 📧 **Email:** Noamhayu2@gmail.com
