@@ -2,7 +2,7 @@
 
 ### 🎓 3rd-Year Electrical & Electronics Engineering Student @ Shenkar College
 
-I am an Electrical Engineering student with a strong passion for digital logic design, low-level programming, and hardware-software integration. I enjoy turning theoretical concepts into working systems, from writing algorithms to working directly with microcontrollers. 
+I am an Electrical Engineering student with a strong passion for digital logic design, low-level programming, and hardware-software integration. I enjoy turning theoretical concepts into working systems, from writing algorithms to working directly with microcontrollers.
 
 When I'm not designing circuits or debugging code, you can find me following international football, exploring new tech hardware, or hanging out with my dog, Jimmy.
 
@@ -14,8 +14,10 @@ When I'm not designing circuits or debugging code, you can find me following int
 ## 🚀 Featured Projects
 - 📡 **[Synchronous TX/RX Communication System & FIFO Buffer (Verilog)](https://github.com/noamhayu/digital-systems-tx-rx-fifo)**  
   Designed and verified a synchronous Transmitter-Receiver communication link in Verilog using ModelSim, evolving from a serialized `tx_vld`/`rx_rdy` handshake architecture to a rate-decoupled parallel system with a custom FIFO buffer and directed overflow/underflow edge-case testing.
-- 🔬 **[Mini-Processor & Assembly Project](https://github.com/noamhayu/mini-processor-project)**  
-  Designed a custom 10-bit mini24 CPU architecture from scratch in Logisim, and developed an Assembly program to compute geometric sequences on the Mano CPU Simulator.
+- 🖥️ **[Custom 10-Bit Mini-Processor Architecture (Logisim)](https://github.com/noamhayu/mini24-cpu-architecture)**  
+  Designed a custom 10-bit `mini24` CPU from scratch in Logisim, integrating a custom ALU, register file, and hardwired control unit supporting `ADD`, `AND`, `LDB`, and `HLT` instructions.
+- ⚙️ **[Geometric Sequence Generator in Mano Assembly](https://github.com/noamhayu/mano-cpu-assembly-geometric-seq)**  
+  Developed a low-level Assembly program on the Mano CPU Simulator to compute a 10-term geometric progression, implementing iterative addition loops and indirect addressing to emulate hardware multiplication.
 
 ## 📫 Let's Connect
 - 💼 **LinkedIn:** [linkedin.com/in/noam-hayu-682080180](https://www.linkedin.com/in/noam-hayu-682080180)
