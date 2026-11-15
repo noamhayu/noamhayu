@@ -2,12 +2,12 @@
 
 ### 🎓 3rd-Year Electrical & Electronics Engineering Student @ Shenkar College
 
-I am an Electrical Engineering student with a strong passion for digital logic design, low-level programming, and hardware-software integration. I enjoy turning theoretical concepts into working systems, from writing algorithms to working directly with microcontrollers.
+I am an Electrical Engineering student passionate about **chip design (VLSI), RTL & digital logic design, and computer architecture**. I enjoy building hardware from the ground up—whether writing and verifying Verilog modules, designing processor architectures, or working at the hardware-software boundary with low-level code and microcontrollers.
 
-When I'm not designing circuits or debugging code, you can find me following international football, exploring new tech hardware, or hanging out with my dog, Jimmy.
+When I'm not designing circuits or running simulations, you can find me following international football, exploring new tech hardware, or hanging out with my dog, Jimmy.
 
 ## 🛠️ Tech Stack & Tools
-- **Programming Languages:** Verilog, C, C++, Python (NumPy, Matplotlib), Assembly
+- **Programming & HDL:** Verilog, C, C++, Python (NumPy, Matplotlib), Assembly
 - **Hardware & Microcontrollers:** Arduino, ESP32, Raspberry Pi, MSP
 - **Engineering Software:** ModelSim, Logisim, MATLAB, Git
 
