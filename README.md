@@ -14,7 +14,7 @@ When I'm not designing circuits or running simulations, you can find me followin
 ## 🚀 Featured Projects
 - 📡 **[Synchronous TX/RX Communication System & FIFO Buffer (Verilog)](https://github.com/noamhayu/digital-systems-tx-rx-fifo)**  
   Designed and verified a synchronous Transmitter-Receiver communication link in Verilog using ModelSim, evolving from a serialized `tx_vld`/`rx_rdy` handshake architecture to a rate-decoupled parallel system with a custom FIFO buffer and directed overflow/underflow edge-case testing.
-- 🖥️ **[Custom 10-Bit Mini-Processor Architecture (Logisim)]([https://github.com/noamhayu/mini24-cpu-architecture](https://github.com/noamhayu/mini-processor-project#custom-10-bit-mini-processor-architecture-mini24))**  
+- 🖥️ **[Custom 10-Bit Mini-Processor Architecture (Logisim)](https://github.com/noamhayu/mini-processor-project)**  
   Designed a custom 10-bit `mini24` CPU from scratch in Logisim, integrating a custom ALU, register file, and hardwired control unit supporting `ADD`, `AND`, `LDB`, and `HLT` instructions.
 - ⚙️ **[Geometric Sequence Generator in Mano Assembly](https://github.com/noamhayu/mano-cpu-assembly-geometric-seq)**  
   Developed a low-level Assembly program on the Mano CPU Simulator to compute a 10-term geometric progression, implementing iterative addition loops and indirect addressing to emulate hardware multiplication.
